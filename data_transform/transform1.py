@@ -1,5 +1,6 @@
 # Create a new dataset with single row for each driver's data
-# use max 40 instance of same driver
+# use max 'instances' instance of same driver
+# set 'instances' accordingly
 
 import pandas as pd
 
